@@ -1,4 +1,4 @@
-## Wreckfest-2-Dedicated-Server-Linux-Headless-Guide
+## Wreckfest 2 Dedicated ServerLinux - Headless Guide
 
 You can find the guide here
 
